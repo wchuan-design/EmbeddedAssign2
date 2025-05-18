@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "EmbeddedAssign2 second",
+			"path": "../../EmbeddedAssign2 second"
+		},
+		{
+			"name": "EmbeddedAssign3",
+			"path": "../../EmbeddedAssign3"
+		}
+	],
+	"settings": {}
+}
